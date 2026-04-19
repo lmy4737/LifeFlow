@@ -1,6 +1,5 @@
 # LifeFlow - 管理您的人生
 
-![LifeFlow Logo](https://nocode.meituan.com/photo/search?keyword=lifeflow,app,logo&width=200&height=200)
 
 > 一个简洁优雅的待办事项与健身追踪应用，帮助您管理日常生活，记录成长轨迹。
 
@@ -70,8 +69,8 @@
 
 如有任何问题或建议，欢迎通过以下方式联系我们：
 
-- 项目主页: [https://github.com/your-username/lifeflow](https://github.com/LMY4737/LifeFlow)
-- 问题反馈: [GitHub Issues](https://github.com/LMY4737/LifeFlow/issues)
+- 项目主页: [https://github.com/your-username/lifeflow](https://github.com/lmy4737/LifeFlow)
+- 问题反馈: [GitHub Issues](https://github.com/lmy4737/LifeFlow/issues)
 
 ---
 
