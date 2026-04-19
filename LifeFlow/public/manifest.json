@@ -1,0 +1,27 @@
+{
+  "name": "LifeFlow",
+  "short_name": "LifeFlow",
+  "description": "管理您的人生，记录每日成长",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://s3plus.meituan.net/nocode-external/assets/nocode-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://s3plus.meituan.net/nocode-external/assets/nocode-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/",
+  "lang": "zh-CN",
+  "dir": "ltr"
+}
