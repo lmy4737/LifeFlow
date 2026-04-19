@@ -2,7 +2,7 @@
 
 
 > 一个简洁优雅的待办事项与健身追踪应用，帮助您管理日常生活，记录成长轨迹。
->✨✨网址:https://life-flow-design.nocode.host✨✨(右键选中转到该网页)
+>✨✨网址:https://life-flow-design.nocode.host
 ## ✨ 核心功能
 
 ### 📝 每日必修 - 待办清单
